@@ -1,0 +1,58 @@
+{
+    "Veneto": [
+        {
+            "name": "Veneto Product 1",
+            "description": "Description for Veneto Product 1",
+            "price": "$15",
+            "image": "assets/images/veneto_product1.jpg"
+        },
+        {
+            "name": "Veneto Product 2",
+            "description": "Description for Veneto Product 2",
+            "price": "$25",
+            "image": "assets/images/veneto_product2.jpg"
+        }
+    ],
+    "Bompaning": [
+        {
+            "name": "Bompaning Product 1",
+            "description": "Description for Bompaning Product 1",
+            "price": "$30",
+            "image": "assets/images/bompaning_product1.jpg"
+        },
+        {
+            "name": "Bompaning Product 2",
+            "description": "Description for Bompaning Product 2",
+            "price": "$40",
+            "image": "assets/images/bompaning_product2.jpg"
+        }
+    ],
+    "Simplot": [
+        {
+            "name": "Simplot Product 1",
+            "description": "Description for Simplot Product 1",
+            "price": "$20",
+            "image": "assets/images/simplot_product1.jpg"
+        },
+        {
+            "name": "Simplot Product 2",
+            "description": "Description for Simplot Product 2",
+            "price": "$35",
+            "image": "assets/images/simplot_product2.jpg"
+        }
+    ],
+    "Hornet": [
+        {
+            "name": "Hornet Product 1",
+            "description": "Description for Hornet Product 1",
+            "price": "$50",
+            "image": "assets/images/hornet_product1.jpg"
+        },
+        {
+            "name": "Hornet Product 2",
+            "description": "Description for Hornet Product 2",
+            "price": "$60",
+            "image": "assets/images/hornet_product2.jpg"
+        }
+    ]
+}
